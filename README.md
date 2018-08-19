@@ -1,3 +1,2 @@
 # jenkins
-
-this is slave
+ok this is master
